@@ -1,5 +1,7 @@
 # fcitx5android-wbpy86
 一个适合 fcitx5-android wubi86词库，包含大量常用wubi86词库、生僻字和拼音。因原始wubi86词库的词组很少，网上只能找到词组丰富的wubi98词库和电脑版搜狗五笔词库，就使用excel的VBA进行合并。
+
+安装视频：【小企鹅输入法fcitx5五笔86大词库】https://www.bilibili.com/video/BV11C4y1v7V2?vd_source=dafb8de5d862538c60cd8e9d3e8c39df
 ##  一、制作过程
 ### （一）下载wubi98词库，并转化为TXT文件
 
